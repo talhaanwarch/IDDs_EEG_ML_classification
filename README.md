@@ -17,4 +17,12 @@ Intellectual   development   disorder   (IDD)   is   char-acterized  by  below  
 ![comparison accuracy](https://github.com/talhaanwarch/IDDs_EEG_ML_classification/blob/master/restvsmusic.png)  
 
 # Citation 
-Paper is accepted in BIA 2020 recently but has not been indexed yet.
+Please cite following paper.
+@inproceedings{anwar2020machine,
+  title={A Machine Learning approach for Recognizing Intellectual Development Disorder using EEG},
+  author={Anwar, Talha},
+  booktitle={2020 International Conference on Biomedical Innovations and Applications (BIA)},
+  pages={9--12},
+  year={2020},
+  organization={IEEE}
+}
